@@ -160,4 +160,5 @@ cython_debug/
 .idea/
 k8s_test
 gpt4all_test/models
+privateGPT_test/models
 .DS_Store
